@@ -44,8 +44,8 @@ const Formulaire = () => {
                     </div>
                 </div>
                 <div className="row">
-                        <button type="button" className="btn btn-primary col-md">VALIDER</button>
-                        <button type="button" className="btn btn-primary col-md">ANNULER</button>
+                        <button type="submit" className="btn btn-primary col-md">VALIDER</button>
+                        <button type="reset" className="btn btn-primary col-md">ANNULER</button>
                 </div>
             </form>
         </div>
